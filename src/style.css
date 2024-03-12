@@ -1,0 +1,33 @@
+.background {
+  background-color: hsl(210, 60%, 98%);
+}
+
+body,
+html {
+  background-color: hsl(210, 60%, 98%);
+}
+
+.red-point {
+  width: 5px;
+  height: 5px;
+  background-color: hsl(1, 90%, 64%);
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+:hover.title {
+  color: hsl(219, 85%, 26%);
+}
+
+:hover.privets {
+  background-color: hsl(205, 33%, 90%);
+}
