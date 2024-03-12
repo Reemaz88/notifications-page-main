@@ -1,9 +1,6 @@
 {
-  "homepage": "https://Reemaz88.github.io/notifications-page-main",
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "react-scripts start"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
